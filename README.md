@@ -7,7 +7,7 @@ Para visualizar este proyecto:
 ```bash
 -> Abrir con Local Server 
 ```
-Accederá a los archivos a través del protocolo "http://" para que las solicitudes Ajax del código funcionen como se espera
+Accederá a los archivos a través del protocolo "http://" para que el código funcione como se espera
 
 
 ## Preview
