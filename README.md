@@ -1,6 +1,6 @@
 # todo-list-firebase
 
-Esta aplicación web implementa la autenticación de Google con Firebase, una vez iniciado sesión puedes utilizar el to do list.
+Esta aplicación web implementa la autenticación de Google con Firebase, una vez iniciada la sesión puedes utilizar el to do list.
 
 ## Deployment
 
