@@ -2,7 +2,7 @@
 
 ## Deployment
 
-Para visualizar este proyecto:
+Para probar este proyecto:
 
 ```bash
 -> Abrir con Local Server 
